@@ -1,41 +1,38 @@
-# Guilherme Santos Soares
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffee&height=120&section=header"/>
 
-**Função Atual:** Operador de Computador  
-**Resumo Profissional:**  
-Atuo auxiliando equipes de TECH com altas demandas, oferecendo suporte técnico e operacional em ambientes de produção, homologação e desenvolvimento. Minhas responsabilidades incluem restore, deploy, monitoramento de jobs, execução de scripts, gerenciamento de backups e acessos remotos. Busco sempre otimizar processos e garantir a disponibilidade dos sistemas.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Guilherme+Soares!;I'm+21+years+old;I'm+from+Brazil,+SP;I+study+systems+development+at+Senac;Be+Welcome+:%29)](https://git.io/typing-svg) <br>
 
----
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Guilherme-Soares05}/count.svg" /></p> 
+<br></div>
 
-## 🛠️ Habilidades e Atividades
+-----
+### ✅ About me:
 
-- **Restore:** Base, arquivos, servidores, e outros.
-- **Rollback:** GMUD's e chamados planejados.
-- **Deploy:** Arquivos e programas em **Weblogic**, **Iseries**, servidores específicos (Prod/Homo).
-- **Atendimento:** Via Jira Service Desk e Teams.
-- **Monitoramento de Jobs:** Control-M (Prod/Homo), análise no **Power BI**, **ODI**, **AWS**, **Iseries**.
-- **Execução de Scripts:** SQL Developer, banco de dados diretamente ou via jobs.
-- **Acesso Remoto:** Servidores Linux, Windows, Unix (Senha Segura, WinSCP).
-- **Stop/Start:** Aplicações e servidores.
-- **Backups:** Monitoração nos ambientes (Netbackup, Control-M).
+In my current role, I assist TECH teams with high demands. Some of my functions are:
 
----
+- Restore databases, files, servers, among others
+- Rollback of planned activities such as GMUDs and Calls
+- Deploy files and programs in applications such as Weblogic, Iseries and in some cases on the specific application server. Prod/Homo
+- Responding to demands via Jira Service Desk and Teams
+- Monitoring jobs via Control-M Prod/Homo
+- Executing QG, analyzing job execution via Power BI, ODI, AWS, Iseries, among others
+- Executing scripts, sometimes done via Jobs but also in SQL Developer or in the database
+- Remote access to Linux, Windows, Unix servers to create new directories, deploy files, restore directories and programs, backup, activities are usually done via Secure Password or WinSCP
+- Stop/Start of applications and servers
+- Monitoring backups in the production, approval and development environments, usually done via Netbackup and Control-M
+-----
+### 🎖️ I also have consolidated knowledge of the main technologies on the market:
 
-## 🚀 Ferramentas e Tecnologias
 
-- **Control-M**: Monitoramento e execução de jobs.  
-- **Power BI**: Análise de dados e relatórios.  
-- **SQL Developer**: Execução e análise de scripts SQL.  
-- **Netbackup**: Gerenciamento de backups.  
-- **Jira Service Desk e Teams**: Atendimento de demandas.  
-- **Weblogic e Iseries**: Deploy de aplicações.  
-- **Linux, Windows, Unix**: Criação de diretórios, backups, deploys.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,py,flask,mysql,docker,git,github,django,aws,azure,linux&theme=dark)](https://skillicons.dev)
 
----
+-----
+### 📞 Talk to me:
 
-## 🌱 Interesses e Aprendizados
-Estou constantemente aprendendo novas tecnologias e processos que otimizam a performance de sistemas e melhoram a experiência dos usuários.
+* 📈​ My [LinkedIn](linkedin.com/in/guilherme-santos-soares-581566219)
 
----
+* 📃​ Visit my [website]() 
 
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/guilherme-santos-soares-581566219/)
+* ✉️​ My email for [contact](zoologui86@gmail.com) 
+
+<br><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffee&height=150&section=header"/>
