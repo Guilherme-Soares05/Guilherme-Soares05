@@ -26,6 +26,7 @@ In my current role, I assist TECH teams with high demands. Some of my functions 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,py,flask,mysql,docker,git,github,django,aws,azure,linux&theme=dark)](https://skillicons.dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Soares05&show_icons=true&theme=dracula)
 -----
 ### 📞 Talk to me:
 
