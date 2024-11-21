@@ -30,10 +30,10 @@ In my current role, I assist TECH teams with high demands. Some of my functions 
 -----
 ### 📞 Talk to me:
 
-* 📈​ My [LinkedIn](linkedin.com/in/guilherme-santos-soares-581566219)
+* 📈​ My [LinkedIn](https://www.linkedin.com/in/guilherme-santos-soares-581566219/)
 
 * 📃​ Visit my [website]() 
 
-* ✉️​ My email for [contact](zoologui86@gmail.com) 
+* ✉️​ My email for contact: zoologui86@gmail.com
 
 <br><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffee&height=150&section=header"/>
