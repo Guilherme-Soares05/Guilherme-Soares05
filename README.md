@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffee&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Guilherme+Soares!;I'm+21+years+old;I'm+from+Brazil,+SP;I+study+systems+development+at+Senac;Be+Welcome+:%29)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Guilherme+Soares!;I'm+22+years+old;I'm+from+Brazil,+SP;I+have+a+degree+in+systems+analysis+and+development;Be+Welcome+:%29)](https://git.io/typing-svg) <br>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Guilherme-Soares05}/count.svg" /></p> 
-<br></div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Guilherme-Soares05.Guilherme-Soares05)
 
 -----
 ### ✅ About me:
